@@ -10,6 +10,10 @@ namespace _1_PrimeiroProjeto
 	{
 		static void Main(string[] args)
 		{
+			Console.WriteLine("Cê vai sentar é na cabessssssça");
+
+            Console.WriteLine("A execução acabou, aperta enter aí pra finalizar essa porra.");
+			Console.ReadLine();
 		}
 	}
 }
