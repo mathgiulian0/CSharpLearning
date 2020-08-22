@@ -1,0 +1,6 @@
+C:\Users\Matheus\Documents\CSharpLearning\Aprendendo CSharp\8-Condicionais2.0\obj\Debug\8-Condicionais2.0.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Documents\CSharpLearning\Aprendendo CSharp\8-Condicionais2.0\bin\Debug\8-Condicionais2.0.exe.config
+C:\Users\Matheus\Documents\CSharpLearning\Aprendendo CSharp\8-Condicionais2.0\bin\Debug\8-Condicionais2.0.exe
+C:\Users\Matheus\Documents\CSharpLearning\Aprendendo CSharp\8-Condicionais2.0\bin\Debug\8-Condicionais2.0.pdb
+C:\Users\Matheus\Documents\CSharpLearning\Aprendendo CSharp\8-Condicionais2.0\obj\Debug\8-Condicionais2.0.exe
+C:\Users\Matheus\Documents\CSharpLearning\Aprendendo CSharp\8-Condicionais2.0\obj\Debug\8-Condicionais2.0.pdb
