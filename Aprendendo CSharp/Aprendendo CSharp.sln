@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImparPar", "ImparPar\ImparP
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fatorial", "Fatorial\Fatorial.csproj", "{7A37D819-BFAE-493C-B581-9252C570C118}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UdemyProjeto", "UdemyProjeto\UdemyProjeto.csproj", "{27B6FD0E-D451-4F2F-8E17-1973C68C5961}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{7A37D819-BFAE-493C-B581-9252C570C118}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7A37D819-BFAE-493C-B581-9252C570C118}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7A37D819-BFAE-493C-B581-9252C570C118}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27B6FD0E-D451-4F2F-8E17-1973C68C5961}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27B6FD0E-D451-4F2F-8E17-1973C68C5961}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27B6FD0E-D451-4F2F-8E17-1973C68C5961}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27B6FD0E-D451-4F2F-8E17-1973C68C5961}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
