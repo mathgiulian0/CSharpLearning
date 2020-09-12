@@ -31,6 +31,12 @@ namespace _03_ByteBank
             Console.WriteLine(contaCorrente.saldo);
             Console.WriteLine(contaCorrente2.saldo);
 
+            if(contaCorrente.saldo >= 100)
+            {
+                contaCorrente.saldo -= 100;
+            }
+
+
             Console.ReadLine();
         }
     }
